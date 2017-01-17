@@ -20,19 +20,20 @@ There were certain rules that the numerals followed which should be observed:
 
 # Examples
 
-| Roman Numeral | Value |
-| I| 1 |
-|IV| 4 |
-|V| 5 |
-| VI| 6|
-| X| 10|
-| L|50|
-|C|100|
-| D|500|
-|M|1000|
-|MCMXLIV|1944|
-|MCMXCIV|1994|
-|MMVI|2006|
+Roman Numeral | Value 
+------------- | ----- 
+I|  1 
+IV | 4 
+V| 5 
+VI| 6 
+X| 10 
+L| 50 
+C | 100 
+D | 500 
+M | 1000 
+MCMXLIV | 1944 
+MCMXCIV | 1994 
+MMVI | 2006 
 
 # Kata
 
