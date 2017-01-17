@@ -20,4 +20,8 @@ There were certain rules that the numerals followed which should be observed:
 
 # Kata
 
-Implement the `int convert(value String)` method in the RomanNumeralConverter class.
+Implement the
+`public int convert(String value)`
+method in RomanNumeralConverter.java
+
+There is a test case RomanNumeralConverterTest.java which you may want to use.
